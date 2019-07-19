@@ -55,7 +55,6 @@
                </div>
            </div>
            <img :src="urlPic" @click="deletePic"/>
-           {{ links }}
        </div>
      </div>
   </div>
